@@ -2,12 +2,12 @@ $(function() {
 
     var countries = [
         { Name: "", Id: 0 },
-        { Name: "United States", Id: 1 },
-        { Name: "Canada", Id: 2 },
-        { Name: "United Kingdom", Id: 3 },
-        { Name: "France", Id: 4 },
+        { Name: "Indonesia", Id: 1 },
+        { Name: "Malaysia", Id: 2 },
+        { Name: "Amerika Serikat", Id: 3 },
+        { Name: "Australia", Id: 4 },
         { Name: "Brazil", Id: 5 },
-        { Name: "China", Id: 6 },
+        { Name: "Cina", Id: 6 },
         { Name: "Russia", Id: 7 }
     ];
 
